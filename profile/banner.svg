@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Corelia Academy — Learn. Build. Ship.</title>
+<desc id="desc">Practical developer education in AI, blockchain and application development.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern></defs>
+<rect width="1280" height="440" rx="20" fill="#191c1b"/><rect width="1280" height="440" rx="20" fill="url(#grid)"/>
+<path d="M64 58h8v8h-8z" fill="#c4e6b5"/>
+<text x="86" y="67" fill="#e5e9e4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="3">CORELIA ACADEMY</text>
+<text x="60" y="187" fill="#f6f7f2" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-4">Learn. Build.</text>
+<text x="60" y="278" fill="#c4e6b5" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-4">Ship.</text>
+<text x="64" y="329" fill="#b5beb6" font-family="Arial, Helvetica, sans-serif" font-size="26">From knowledge to real-world products.</text>
+<path d="M64 365h1152" stroke="#39413a"/>
+<text x="64" y="405" fill="#a4aea6" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">APPLICATIONS / AI / BLOCKCHAIN</text>
+<text x="1216" y="405" text-anchor="end" fill="#a4aea6" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">BUILT IN VIETNAM</text>
+<g fill="none" stroke-linejoin="round" stroke-width="2">
+<path d="m878 207 135-78 135 78-135 78z" fill="#202721" stroke="#768c76"/>
+<path d="m878 243 135 78 135-78m-270-36v36m270-36v36m-135-36v114" stroke="#768c76"/>
+<path d="m878 159 135-78 135 78-135 78z" fill="#273329" stroke="#c4e6b5"/>
+<path d="m878 159 135 78 135-78m-135 78v36m-135-114v36l135 78 135-78v-36" stroke="#c4e6b5"/>
+<path d="m947 159 66-38 66 38-66 38z" stroke="#c4e6b5"/>
+<path d="M1013 40v20m0 247v22M842 159h-20m362 0h20" stroke="#748376"/>
+</g><circle cx="1013" cy="159" r="5" fill="#c4e6b5"/>
+</svg>
